@@ -15,20 +15,20 @@ This project has been developed with assistance from the GPT-4 model by OpenAI.
 
 To get a local copy of the JavaNoiseGen project, run:
 
-`git clone https://github.com/aicheung/java-noise-gen.git
-cd java-noise-gen`
+    git clone https://github.com/aicheung/java-noise-gen.git
+    cd java-noise-gen
 
 ### Compiling the Project
 
 Navigate to the root directory of the project and execute:
 
-`mvn compile`
+    mvn compile
 
 ### Packaging the Application
 
 To package the `noise.core` module into a runnable JAR, execute:
 
-`mvn package`
+    mvn package
 
 
 This will produce a `noise.core-1.0.jar` file inside the `noise.core/target` directory.
@@ -37,7 +37,7 @@ This will produce a `noise.core-1.0.jar` file inside the `noise.core/target` dir
 
 After packaging, you can run the application using:
 
-`mvn exec:java`
+    mvn exec:java
 
 ## Note
 
