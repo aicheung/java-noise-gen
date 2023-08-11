@@ -1,6 +1,6 @@
 # JavaNoiseGen
 
-JavaNoiseGen is a WIP project aimed at generating noise. It provides a core module, `noise.core`, that can generate noise based on specified frequencies. There is also a planned UI to provide a graphical interface for users, but it's still in the works.
+JavaNoiseGen is a WIP project aimed at generating noise. It provides a core module, `noise.core`, that can generate noise based on specified frequencies. There is also a planned UI (`noise.ui`) to provide a graphical interface for users, but it's still in the works.
 
 This project has been developed with assistance from the GPT-4 model by OpenAI.
 
